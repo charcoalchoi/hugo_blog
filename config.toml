@@ -1,4 +1,6 @@
 baseURL = "https://charcoalchoi.github.io/hugo_blog/"
 languageCode = "zh-tw"
 title = "我的第一個部落格"
+
 theme = "hamburg"
+publishDir = "docs"
