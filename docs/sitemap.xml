@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://charcoalchoi.github.io/hugo_blog/posts/my-first-file/</loc>
+    <lastmod>2020-11-22T15:22:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://charcoalchoi.github.io/hugo_blog/posts/</loc>
+    <lastmod>2020-11-22T15:22:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://charcoalchoi.github.io/hugo_blog/</loc>
+    <lastmod>2020-11-22T15:22:41+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://charcoalchoi.github.io/hugo_blog/categories/</loc>
   </url>
   
   <url>
     <loc>https://charcoalchoi.github.io/hugo_blog/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://charcoalchoi.github.io/hugo_blog/</loc>
   </url>
   
 </urlset>
